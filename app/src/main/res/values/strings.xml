@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipe Application</string>
+    <string-array name="typeRecipe">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Drink</item>
+    </string-array>
+</resources>
